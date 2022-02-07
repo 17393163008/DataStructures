@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1b60eae-256c-4157-a227-af4597262b35" name="Default Changelist" comment="" />
+    <list default="true" id="d1b60eae-256c-4157-a227-af4597262b35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pqq/josepfu/JosepfuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pqq/leetcode/FindMinFibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pqq/leetcode/NumberOfVaildWordsInSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/SingleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+            <state relative-caret-position="286">
+              <caret line="13" column="54" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="e#1679#1680#0" expanded="true" />
                 <element signature="e#1706#1707#0" expanded="true" />
@@ -50,14 +57,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+            <state relative-caret-position="770">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/NumberOfVaildWordsInSentence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/pqq/josepfu/JosepfuTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/FindMinFibonacciNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +114,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -92,7 +128,19 @@
         <option value="$PROJECT_DIR$/src/com/pqq/leetcode/StockPriceFluctuation.java" />
         <option value="$PROJECT_DIR$/src/com/pqq/leetcode/StockPrice.java" />
         <option value="$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/pqq/leetcode/NumberOfVaildWordsInSentence.java" />
+        <option value="$PROJECT_DIR$/src/com/pqq/leetcode/FindMinFibonacciNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/pqq/josepfu/JosepfuTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -103,16 +151,17 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="950" />
-    <option name="y" value="-9" />
-    <option name="width" value="979" />
-    <option name="height" value="1099" />
+    <option name="width" value="987" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,6 +179,21 @@
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pqq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pqq" type="462c0819:PsiDirectoryNode" />
+              <item name="josepfu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pqq" type="462c0819:PsiDirectoryNode" />
+              <item name="josepfu" type="462c0819:PsiDirectoryNode" />
+              <item name="JosepfuTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -166,18 +230,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643121331536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643883277600" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,7 +256,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleLinkedListDemo">
+  <component name="RunManager" selected="Application.JosepfuTest">
+    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pqq.linkedlist.DoubleLinkedListDemo" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pqq.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JosepfuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pqq.josepfu.JosepfuTest" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pqq.josepfu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pqq.linkedlist.MyTest" />
       <module name="DataStructures" />
@@ -220,6 +311,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JosepfuTest" />
+        <item itemvalue="Application.DoubleLinkedListDemo" />
         <item itemvalue="Application.SingleLinkedListDemo" />
         <item itemvalue="Application.MyTest" />
       </list>
@@ -244,19 +337,24 @@
       <workItem from="1642834938473" duration="3181000" />
       <workItem from="1642905075227" duration="1969000" />
       <workItem from="1643037942329" duration="164000" />
-      <workItem from="1643071983171" duration="2993000" />
+      <workItem from="1643071983171" duration="4782000" />
+      <workItem from="1643520508102" duration="353000" />
+      <workItem from="1643603802607" duration="921000" />
+      <workItem from="1643779111833" duration="2664000" />
+      <workItem from="1643854433608" duration="4568000" />
+      <workItem from="1644162577641" duration="425000" />
+      <workItem from="1644163025921" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18316000" />
+    <option name="totallyTimeSpent" value="29541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="767" y="-7" width="789" height="886" extended-state="0" />
-    <editor active="true" />
+    <frame x="768" y="0" width="795" height="878" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5143639" visible="true" weight="0.27222982" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.48563612" side_tool="true" visible="true" weight="0.27222982" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50143266" visible="true" weight="0.3202171" />
+      <window_info id="Structure" order="1" sideWeight="0.49856734" side_tool="true" visible="true" weight="0.3202171" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -264,7 +362,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3250346" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33954155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,10 +432,45 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/MedianIOfTwoSortedArrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="54" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="e#1679#1680#0" expanded="true" />
+            <element signature="e#1706#1707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/StockPrice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/NumberOfVaildWordsInSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pqq/leetcode/FindMinFibonacciNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -351,25 +484,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/SingleLinkedListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pqq/josepfu/JosepfuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
-          <folding>
-            <element signature="e#1679#1680#0" expanded="true" />
-            <element signature="e#1706#1707#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pqq/linkedlist/DoubleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="482">
+          <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
         </state>
       </provider>
     </entry>
